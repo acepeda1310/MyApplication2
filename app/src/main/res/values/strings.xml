@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tema02-Ejercicio01</string>
+
+    <string name="hello_world">Hola, soy Adrián Cepeda Ávila</string>
+    <string name="action_settings">Settings</string>
+</resources>
